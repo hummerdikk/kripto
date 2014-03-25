@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EncryptedData xmlns="http://www.w3.org/2001/04/xmlenc#" xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+	<KeyInfo>
+		<EncryptedKey Recipient="6cs">
+			EUQvKr/KaLxh6szDu1l5F1Qc2gsiRnxxo07As8fbQaogVr6qAytVIWg8pnDJLJVV
+			O32DC8tnLVR3gj0l8OCLIfUbUBRLMIA8NBqXtun5Y/0ZdDLdV971UeSZ+jOQZ708
+			lh4eyJV3+NDRYFedH7B6RaSb2zYOfWQXE5ZjZEhLb64=
+		</EncryptedKey>
+		<EncryptedKey Recipient="angati">
+			ZrlvwarK9WY4DHspE2m6qassyRvR64yActE7TSyxC/BDWTfV/K+yXD8qPO9Xqp5m
+			wsmRnoEYXeLBpwKreakOf7xYBLkebfFW2nD/BX8x20fSvOY/Gc+B/eW0uoBRZhxb
+			2lmd6/LKKCfMISasYFAAHrnZOr53CDXTxdegRpGhi0c=
+		</EncryptedKey>
+		<EncryptedKey Recipient="blabla">
+			Hs42PElfUCAmBLoX/apQ/LX9uzynffDI5chnT6fPTQuXNah9TmnN7INNLGbLj0Wd
+			QU/iEyPUHa+j0gsHBu/qzFf9TJB4s2OFLlg6b+RsZUHeZRDAJvSe5m/BIyUgW9Ub
+			5Mtfw3ZjbkpgYqGMfXw3qIbVXC/vTwe65WfyFvs1iuU=
+		</EncryptedKey>
+		<EncryptedKey Recipient="csapat4">
+			cAGjQj5X4UD5beE97EBSb7/HQz13q5MJ1EGs6TPmw9VtA+cPRi1023sHbXXLdZP2
+			CtpuIjFEaqIIMyq33o8ZNHwtPs4dsYB35I/XSr9Jc02Jyjc8S4hGt3Qk7oK2JTZK
+			xukEun4G6Qj4jCIWOJzUA7IUaIIRGcw2pTCI4agw0uc=
+		</EncryptedKey>
+		<EncryptedKey Recipient="csapat03">
+			DgN3fFow62AHFDBTpt8J0JDPxdi6Ej2UqPRosftkiOlpWpKa6msMiQ14FlRuS9R3
+			185yKgUA/xME53HQCM7CPPMWz1WKE70yG0PDpm5ZgOM/ccSMGgdkl8M2fnb7aDtJ
+			zklNydecLMxNJNOcV5ZuECGd0SvSzdm/u74hKyr+nWg=
+		</EncryptedKey>
+		<EncryptedKey Recipient="csapat04">
+			t85+Nbpv9rUbBjzTdOl3g/H/tWLO5Spnfh+dEeoVPd2Nj13YWEgyht4VO5S1k0uH
+			Q/sZ2AI4i7NZ/RR/VV1wY1goHGKZEjjIaPji1Ql100+a6NICzwfMBdI5gD2vA5oV
+			bt+/a3wJohBKx6JumQ9Mr0tH9uux5MpnPv0j7inZKR0=
+		</EncryptedKey>
+		<EncryptedKey Recipient="csapat07">
+			A4jZYALnoYrDAbVmlas6sQVVtHROIps/IbFdrkcb0/bUOocarXnQEAe3rBLLUJp4
+			3NZIZFTIOqy8ecXdfMyzbpzdUJr+2XVc6ZCo86p6nq9QLir3GpITXPQF+9iMG3qk
+			yteY0Y/pLjP62l7Ol2tN9tH2ogumYuFfSwyk4T6xitk=
+		</EncryptedKey>
+		<EncryptedKey Recipient="csapat08">
+			QEdPIZFuKOdkdRLfuvfwkxR5dclEFSsqiY5kPNbPEVLJB2l0Czs3+EloxllgZwB/
+			VtY1RBHUr2dBpCbNq7WtRcObAI/wrPVPG1+XqMm9/OgTP7+romwX/P4oM4vRtiaE
+			bpg3Mo+jAtnkW9zxxOpx3jG4sRJmLH38dha4jLVgTOI=
+		</EncryptedKey>
+		<EncryptedKey Recipient="csoport05">
+			PwUvSz486xTpw3O13GvP+RNeZBIMSKRjaggiO7FzcRNDbg/kyuUimexVgyc+/6cT
+			Mg4mb8UwCNyz44Y7L/801c/3gd1O2l1DF0oA7bxC1EPDkc1gQ4yIYQYepdp8TgLV
+			u0BgGbhzlCgEE8sYywnu8w4HGvOL1j4TgwNq2ZrSMTI=
+		</EncryptedKey>
+		<EncryptedKey Recipient="hallod">
+			az8R3WzZhaQ/RHbqLG7l74j02mWQfu1KVzeYM/z12zp9AXAXRhpzPgnKRWZP8ZNh
+			DjP5HcPBJ4Y0O5Lp4x/WxhruESWIdPJcVidbZT2fiq5tjzGxy7jSQ76HJChzmNKI
+			bxPypiWo9EwBOOyqwy8B00lJg7T9LdgbgyDL9cFFMMM=
+		</EncryptedKey>
+		<EncryptedKey Recipient="ket">
+			bTRBhsa4fv5Ye9/F3F7D1I1CAnLOTxh52FvJ7TWOX1AOM5unkrZr5iHnulsYeK8E
+			BHD6L2aGH6Zz97Xy2yhHjSxrA9sbdwoq7kUHMultb4V1QM+4XtHG+FT8kpcr/m0P
+			itFOihP+KxQ5SyHhClz/vmIWgR/Eh64o4FzOcd2mnno=
+		</EncryptedKey>
+		<EncryptedKey Recipient="kriptob5">
+			n4RyUpp3MYDhIKwI1IqqV1EkBvSu07LSbEHbIVC9REwSexYPY0pmpl+SNMKkJ6l5
+			2H/w7awI8j7iyk5bmL3c0jDyRmLmF9LLywQ3TkTyfBV5Te1RfPyq++XNHHcm/VQ+
+			IQunneZNOMWMVt9eL9X/Dl2KeE2IPmg8OSPaelomq1o=
+		</EncryptedKey>
+		<EncryptedKey Recipient="zsozsoek">
+			Qt/zmfG5YQR37UqEhtPsU+4kZKeUvrsMJ94refABCB4qxqtc/ajf7cMcT9+GYIf1
+			yMhKG3of8BVHR4y2L521l7jGg2FTVgQtjTz2I5qVVKyTSyZUmwhCDq4F3fUiH94f
+			AajBtibkBsVZiuM2gBAsjNO/buBU0c/U1Rb7MxiruTg=
+		</EncryptedKey>
+		<EncryptedKey Recipient="xxx">
+			ES4Fn6OsNqGgy8eycAeVb1G7r7PPZ52lctLC4Oh+Yz+nWDdVcCECySkSu8meCzlx
+			cW2Wu6i8I7g9JfqocxxrnGVdCa7BHE5kuqmO7GuKmLypRVaN8hZ+UCvlZ8BwY2Yz
+			q/NBl+af2OyaEP4GYukVTsiwNsumGWPZX6HiMcEDOm4=
+		</EncryptedKey>
+		<EncryptedKey Recipient="tosksi">
+			FdLTsTOl/bEibBq/3XqDJmXzdkP/yJ3ySSJ1lEhNVHWQm+gu+Ko1zQXxc028qRR3
+			1FeEBz83VViW7MZAssNX+2r61xO6kfMD/V9NyK0ana1zN7Ju+eeHsTOkqNgL+isN
+			YEsz9yN83HnBsgW+1MtZQDe9tWjVurt9Zj8+8F2Z8fA=
+		</EncryptedKey>
+	</KeyInfo>
+	<CipherData>
+		<CipherValue>
+			NWIyZjEyNjBhMTUzM2Q3MzdhMTYxYTA2ZTQzZDA2ZDHDPXH93+Kdmmr+NESW9frM
+			TdnyIhfTGU97h3LJcgcqTBmBnV5ToRke9FZDuyyrOZRqLfLAdDYV2Paf8nCVDk6V
+			urSzxMXAkQ/x3qsFn7g4ne1c+2uYAoKsi4k=
+		</CipherValue>
+	</CipherData>
+</EncryptedData>
+
